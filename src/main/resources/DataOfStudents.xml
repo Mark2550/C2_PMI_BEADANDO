@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Roger Progress</name>
+        <birthPlace>Origin</birthPlace>
+        <birthDate>1914.07.28</birthDate>
+        <address>1234, Zed city, Flower St. 5</address>
+        <phoneNumber>112 345 678</phoneNumber>
+        <email>Student1@gmail.com</email>
+        <nameOfCaretaker>Mommy</nameOfCaretaker>
+        <numberOfCaretaker>11 111 11111</numberOfCaretaker>
+    </student>
+    <student>
+        <name>Second Roger</name>
+        <birthPlace>City 2</birthPlace>
+        <birthDate>1922.02.22</birthDate>
+        <address>1234, Zed city, Flower St. 5</address>
+        <phoneNumber>23 457 27043</phoneNumber>
+        <email>student2@gmail.com</email>
+        <nameOfCaretaker>Ctaker2</nameOfCaretaker>
+        <numberOfCaretaker>23 456 789</numberOfCaretaker>
+    </student>
+    <student>
+        <name>Third Roger</name>
+        <birthPlace>Place 3</birthPlace>
+        <birthDate>1933.03.23</birthDate>
+        <address>234, T city, Baker St. 5</address>
+        <phoneNumber>012345678</phoneNumber>
+        <email>student3@gmail.com</email>
+        <nameOfCaretaker>Ctaker3</nameOfCaretaker>
+        <numberOfCaretaker>34 567 89012</numberOfCaretaker>
+    </student>
+</students>
